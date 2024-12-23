@@ -1,0 +1,5 @@
+streamlit
+anthropic
+Pillow
+base64
+os
