@@ -1863,7 +1863,7 @@ def init_session_state():
         st.session_state.openai_model = "gpt-4o"
 
 def main():
-    st.title("Chat with Raven")
+    st.title("Chat with Jarvis")
 
     # Initialize session state
     init_session_state()
