@@ -1778,7 +1778,7 @@ def image_to_base64(image_path):
         return None
 
 
-def chat_with_claude(messages_list, system_prompt=None, model="claude-3-5-sonnet-20241022", temperature=1,max_tokens=8192):
+def chat_with_claude(messages_list, system_prompt=None, model="claude-3-7-sonnet-20250219", temperature=1,max_tokens=8192):
 
     x="sk-ant-api03-NBsnNJg4yoi3YZE-"
     y="QKuTOkasweJwFIJWRZdpQLcSyDv2tdZIAPk"
